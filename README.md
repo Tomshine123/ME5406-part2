@@ -7,6 +7,7 @@ yellow diamonds)and the robot is encouraged to reach these waypoints to get smal
 final goal but a negative rewardas penalty if it crashes with the bed by extreme linear velocity. Besides, there is a flow force from the water with 
 random direction (shown as the red arrow)for each run to make the task more challenge, the robot is trained to overcome these difficulties and safely 
 arrive the destination.
+![underwater_robot_image](uw_robot/env/uw_robot.png)
 
 ## Setup
 To install dependencies of this environment, run the command
